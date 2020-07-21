@@ -1,0 +1,38 @@
+[
+    {
+        "username":"Ramesh",
+        "shopname": "ICX4 Solutions",
+        "status": "Registered",
+        "id": ""
+    },
+    {
+        "username":"Lee",
+        "shopname": "Barclays",
+        "status": "Registered",
+        "id": ""
+    },
+    {
+        "username":"Paul Ashby",
+        "shopname": "Tesco",
+        "status": "Not Registered",
+        "id": ""
+    },
+    {
+        "username":"Prabhu",
+        "shopname": "DNB",
+        "status": "Not Registered",
+        "id": ""
+    },
+    {
+        "username":"Vishwa",
+        "shopname": "Java",
+        "status": "Registered",
+        "id": ""
+    },
+    {
+        "username":"Michael",
+        "shopname": "Infosys",
+        "status": "Registered",
+        "id": ""
+    }
+]
